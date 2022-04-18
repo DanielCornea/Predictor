@@ -24,7 +24,7 @@ This projects represents the final capstone project for the Udacity's Data Scien
 From a personal point of view, this prjoect is a starting point on which I will be able to further build a system that will aid me options trading and in assesing companies for investment
 
 ## The Files
-* predictor.ipynb - the jupiter notebook where all the code is written 
+* Predictor.ipynb - the jupiter notebook where all the code is written 
 * predictor_blog_post.pdf - pdf file containing a blog post describing the project
 * LICENSE - self explanatory
 * README.md - this file
