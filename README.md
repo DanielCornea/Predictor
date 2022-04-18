@@ -26,6 +26,7 @@ From a personal point of view, this prjoect is a starting point on which I will 
 ## The Files
 * predictor.ipynb - the jupiter notebook where all the code is written 
 * predictor_blog_post.pdf - pdf file containing a blog post describing the project
+* LICENSE - self explanatory
 * README.md - this file
 
 ## Summary of the results of the analysis
